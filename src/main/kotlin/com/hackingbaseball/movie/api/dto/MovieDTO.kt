@@ -1,4 +1,4 @@
-package com.hackingbaseball.movie.api.entity
+package com.hackingbaseball.movie.api.dto
 
 data class MovieDTO(
     var id: Int,
